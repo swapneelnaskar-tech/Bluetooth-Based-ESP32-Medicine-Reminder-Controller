@@ -43,4 +43,4 @@ This project is a smart IoT-based medicine reminder system that integrates an An
 
 
 
-Swapneel Naskar
+
